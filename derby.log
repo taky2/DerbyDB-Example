@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 10 23:11:11 MST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-0150-f52b-5d20-00000e3901e8 
+on database directory /Users/kyma/IdeaProjects/DerbyDB/CoffeeDB with class loader sun.misc.Launcher$AppClassLoader@28a418fc 
+Loaded from file:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b17
+user.dir=/Users/kyma/IdeaProjects/DerbyDB
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
